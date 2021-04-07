@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP4 POO Bilan Classes-Objet-Collection", "TP4 POO Bilan Classes-Objet-Collection\TP4 POO Bilan Classes-Objet-Collection.csproj", "{54B46380-9C69-4260-A86A-E13C9ED92CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54B46380-9C69-4260-A86A-E13C9ED92CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B46380-9C69-4260-A86A-E13C9ED92CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B46380-9C69-4260-A86A-E13C9ED92CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B46380-9C69-4260-A86A-E13C9ED92CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {561A0CC0-EC65-470B-A8A9-53F1B9F47A12}
+	EndGlobalSection
+EndGlobal
